@@ -10,7 +10,7 @@
   - [Shoes](#shoes)
 - [Health & Beauty](#health--beauty)
 - [Smartphones](#smartphones)
-- [Smartphone Accessories](#smartphone-accessories)
+  - [Smartphone Accessories](#smartphone-accessories)
 
 ---
 
@@ -38,7 +38,7 @@
 - [Shift](https://www.shiftphones.com/en/) [:de:] - Modular smartphones and tablet laptops with focus on fair working conditions and repairability.
 - [Teracube](https://myteracube.com/) [:us:] - Repairable, affordable smartphones aiming for reduced electronic waste and environmental impact of smartphones
 
-## Smartphone Accessories
+### Smartphone Accessories
 
 - [Nimble](https://www.gonimble.com/) [:us:] - Sustainable premium chargers, cables and phone cases with plastic-free packaging.
 - [Oceanmata](https://en.oceanmata.com/) [:de:] - Mobile phone cases for plastic-free oceans.
