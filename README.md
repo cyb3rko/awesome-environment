@@ -9,6 +9,7 @@
 - [Clothing](#clothing)
   - [Shoes](#shoes)
 - [Health & Beauty](#health--beauty)
+- [Online Services](#online-services)
 - [Smartphones](#smartphones)
   - [Smartphone Accessories](#smartphone-accessories)
 
@@ -30,6 +31,11 @@
 ## Health & Beauty
 
 - [Bam&Boo](https://thebamandboo.com/) [:portugal:] - Natural, vegan, cruelty free and climate neutral health and beauty products.
+
+
+## Online Services
+
+- [Ecosia](https://www.ecosia.org/) [:de:] - A search engine donating most of its revenues to reforestation projects.
 
 
 ## Smartphones
