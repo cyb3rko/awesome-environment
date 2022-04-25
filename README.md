@@ -34,6 +34,7 @@
 ## Health & Beauty
 
 - [Bam&Boo](https://thebamandboo.com/) [:portugal:] - Natural, vegan, cruelty free and climate neutral health and beauty products.
+- [Quip](https://www.getquip.com/) [:us:] - Refillable floss, gum and mouthwash dispensers, toothpaste with 100% recyclable tubes.
 
 
 ## Kitchen Equipment, Dishes, Eating Utensils
