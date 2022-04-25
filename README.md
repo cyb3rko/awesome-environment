@@ -9,7 +9,7 @@
 - [Clothing](#clothing)
   - [Shoes](#shoes)
 - [Health & Beauty](#health--beauty)
-- [Kitchen Equipment, Dishes](#kitchen-equipment-cutlery)
+- [Kitchen Equipment, Dishes](#kitchen-equipment-dishes)
 - [Online Services](#online-services)
 - [Smartphones](#smartphones)
   - [Smartphone Accessories](#smartphone-accessories)
