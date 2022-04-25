@@ -35,6 +35,7 @@
 ## Health & Beauty
 
 - [Bam&Boo](https://thebamandboo.com/) [:portugal:] - Natural, vegan, cruelty free and climate neutral health and beauty products.
+- [Meow Meow Tweet](https://meowmeowtweet.com/) [:us:] - Vegan, ethical, low-waste, handmade & cruelty-free personal care products.
 - [Quip](https://www.getquip.com/) [:us:] - Refillable floss, gum and mouthwash dispensers, toothpaste with 100% recyclable tubes.
 - [SuperBee](https://superbee.me/) [:thailand:] - Sustainable toothbrushes, toothpaste tabs, dental floss, body scrubbers and makeup remover pads made from / packed in bamboo. (+ [Bags, Wraps](#bags-wraps), [Dishes, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry))
 
