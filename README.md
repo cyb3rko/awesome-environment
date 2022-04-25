@@ -24,6 +24,8 @@
 
 ## Clothing
 
+- [Seadon](https://seadon.co/) [:us:] - Eco-friendly clothings (Tops, Pants, Jackets and more) with minimum environmental impact.
+
 ### Shoes
 
 - [Rothy's](https://rothys.com/) [:us:] - Washable shoes and handbags made from 100% recycled materials
