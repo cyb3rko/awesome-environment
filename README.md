@@ -9,7 +9,7 @@
 - [Clothing](#clothing)
   - [Shoes](#shoes)
 - [Health & Beauty](#health--beauty)
-- [Kitchen Equipment, Dishes](#kitchen-equipment-dishes)
+- [Kitchen Equipment, Dishes, Eating Utensils](#kitchen-equipment-dishes-eating-utensils)
 - [Online Services](#online-services)
 - [Smartphones](#smartphones)
   - [Smartphone Accessories](#smartphone-accessories)
@@ -36,8 +36,9 @@
 - [Bam&Boo](https://thebamandboo.com/) [:portugal:] - Natural, vegan, cruelty free and climate neutral health and beauty products.
 
 
-## Kitchen Equipment, Dishes
+## Kitchen Equipment, Dishes, Eating Utensils
 
+- [Final](https://final.co/) [:us:] - Reusable, sustainable straws and cutlery with pocket-size portability.
 - [Sasstainable](https://www.sasstainable.co.uk/) [:uk:] - High quality, sustainable bakeware, coffee cups, pouches, cutlery and more.
 - [The Sustainable Switch](https://thesustainableswitch.com/) [:us:] - Bulk Stainless Steel Drinking Straws & Accessories.
 
