@@ -20,7 +20,7 @@
 
 - [Onya](https://www.onyalife.com/) [:australia:] - Recyclable, reusable and practical high-quality bags, backpacks, bin liners and more.
 - [Rothy's](https://rothys.com/) [:us:] - Handbags made from 100% recycled materials. (+ [Shoes](#shoes))
-- [SuperBee](https://superbee.me/) [:thailand:] - High quality, reusable beeswax wraps and bags. (+ [Dishes, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry), [Health & Beaty](#health--beauty))
+- [SuperBee](https://superbee.me/) [:thailand:] - High quality, reusable beeswax wraps and bags. (+ [Dishes, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry) | [Health & Beauty](#health--beauty))
 
 
 ## Clothing
@@ -38,7 +38,7 @@
 - [Meow Meow Tweet](https://meowmeowtweet.com/) [:us:] - Vegan, ethical, low-waste, handmade & cruelty-free personal care products.
 - [No Tox Life](https://notoxlife.com/) [:us:] - Vegan, sustainable and zero / low waste toothbrushes, soap, shampoo, deodorants, conditioner and other brushes. (+ [Kitchen Equipment](#kitchen-equipment-dishes-eating-utensils-laundry))
 - [Quip](https://www.getquip.com/) [:us:] - Refillable floss, gum and mouthwash dispensers, toothpaste with 100% recyclable tubes.
-- [SuperBee](https://superbee.me/) [:thailand:] - Sustainable toothbrushes, toothpaste tabs, dental floss, body scrubbers and makeup remover pads made from / packed in bamboo. (+ [Bags, Wraps](#bags-wraps), [Dishes, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry))
+- [SuperBee](https://superbee.me/) [:thailand:] - Sustainable toothbrushes, toothpaste tabs, dental floss, body scrubbers and makeup remover pads made from / packed in bamboo. (+ [Bags, Wraps](#bags-wraps) | [Dishes, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry))
 
 
 ## Kitchen Equipment, Dishes, Eating Utensils, Laundry
@@ -46,7 +46,7 @@
 - [Final](https://final.co/) [:us:] - Reusable, sustainable straws and cutlery with pocket-size portability.
 - [No Tox Life](https://notoxlife.com/) [:us:] - Zero / low waste bamboo dish / vegetable brush and soap. (+ [Health & Beauty](#health--beauty))
 - [Sasstainable](https://www.sasstainable.co.uk/) [:uk:] - High quality, sustainable bakeware, coffee cups, pouches, cutlery and more.
-- [SuperBee](https://superbee.me/) [:thailand:] - Sustainbly produced glass straws, coconut bowls, kitchen rolls, bamboo mugs, laundry equipment. (+ [Bags, Wraps](#bags-wraps), [Health & Beaty](#health--beauty))
+- [SuperBee](https://superbee.me/) [:thailand:] - Sustainbly produced glass straws, coconut bowls, kitchen rolls, bamboo mugs, laundry equipment. (+ [Bags, Wraps](#bags-wraps) | [Health & Beaty](#health--beauty))
 - [The Sustainable Switch](https://thesustainableswitch.com/) [:us:] - Bulk Stainless Steel Drinking Straws & Accessories.
 
 
