@@ -9,6 +9,7 @@
 - [Clothing](#clothing)
   - [Shoes](#shoes)
 - [Health & Beauty](#health--beauty)
+  - [Diapers](#diapers)
 - [Kitchen Equipment, Dishes, Eating Utensils, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry)
 - [Online Services](#online-services)
 - [Smartphones](#smartphones)
@@ -39,6 +40,10 @@
 - [No Tox Life](https://notoxlife.com/) [:us:] - Vegan, sustainable and zero / low waste toothbrushes, soap, shampoo, deodorants, conditioner and other brushes. (+ [Kitchen Equipment](#kitchen-equipment-dishes-eating-utensils-laundry))
 - [Quip](https://www.getquip.com/) [:us:] - Refillable floss, gum and mouthwash dispensers, toothpaste with 100% recyclable tubes.
 - [SuperBee](https://superbee.me/) [:thailand:] - Sustainable toothbrushes, toothpaste tabs, dental floss, body scrubbers and makeup remover pads made from / packed in bamboo. (+ [Bags, Wraps](#bags-wraps) | [Dishes, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry))
+
+### Diapers
+
+- [Kudos](https://mykudos.com/) [:us:] - Plantbased, 100% cotton-lined and leak-defying disposable diapers.
 
 
 ## Kitchen Equipment, Dishes, Eating Utensils, Laundry
