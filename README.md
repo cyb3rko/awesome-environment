@@ -7,6 +7,7 @@
 
 - [Bags, Wraps](#bags-wraps)
 - [Clothing](#clothing)
+  - [Dresses, Suits](#dresses-suits)
   - [Shoes](#shoes)
 - [Health & Beauty](#health--beauty)
   - [Diapers](#diapers)
@@ -27,6 +28,14 @@
 ## Clothing
 
 - [Seadon](https://seadon.co/) [:us:] - Eco-friendly clothings (Tops, Pants, Jackets and more) with minimum environmental impact.
+
+### Dresses, Suits
+
+- [Bastet Noir](https://bastetnoir.com/) [:macedonia:] - Sustainable, zero waste dresses and suits out of eco-friendly, party recycled, materials. (+ [Pants](#pants))
+
+### Pants
+
+- [Bastet Noir](https://bastetnoir.com/) [:macedonia:] - Sustainable, zero waste pants out of eco-friendly, party recycled, materials. (+ [Dresses, Suits](#dresses-suits))
 
 ### Shoes
 
