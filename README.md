@@ -36,6 +36,7 @@
 ## Health & Beauty
 
 - [Bam&Boo](https://thebamandboo.com/) [:portugal:] - Natural, vegan, cruelty free and climate neutral health and beauty products.
+- [Dyper](https://dyper.com/) [:us:] - Eco-friendly, low waste hair/body wash and diaper balm with natural ingredients and wipes. (+ [Diapers](#diapers) | [Laundry](#kitchen-equipment-dishes-eating-utensils-laundry))
 - [Meow Meow Tweet](https://meowmeowtweet.com/) [:us:] - Vegan, ethical, low-waste, handmade & cruelty-free personal care products.
 - [No Tox Life](https://notoxlife.com/) [:us:] - Vegan, sustainable and zero / low waste toothbrushes, soap, shampoo, deodorants, conditioner and other brushes. (+ [Kitchen Equipment](#kitchen-equipment-dishes-eating-utensils-laundry))
 - [Quip](https://www.getquip.com/) [:us:] - Refillable floss, gum and mouthwash dispensers, toothpaste with 100% recyclable tubes.
@@ -43,11 +44,13 @@
 
 ### Diapers
 
+- [Dyper](https://dyper.com/) [:us:] - Biodegradable, sustainable bamboo and cloth diapers with divert program for composting used diapers. (+ [Health & Beauty](#health--beauty) | [Laundry](#kitchen-equipment-dishes-eating-utensils-laundry))
 - [Kudos](https://mykudos.com/) [:us:] - Plantbased, 100% cotton-lined and leak-defying disposable diapers.
 
 
 ## Kitchen Equipment, Dishes, Eating Utensils, Laundry
 
+- [Dyper](https://dyper.com/) [:us:] - Low-waste toxic-free laundry drops. (+ [Health & Beauty](#health--beauty) | [Diapers](#diapers))
 - [Final](https://final.co/) [:us:] - Reusable, sustainable straws and cutlery with pocket-size portability.
 - [No Tox Life](https://notoxlife.com/) [:us:] - Zero / low waste bamboo dish / vegetable brush and soap. (+ [Health & Beauty](#health--beauty))
 - [Sasstainable](https://www.sasstainable.co.uk/) [:uk:] - High quality, sustainable bakeware, coffee cups, pouches, cutlery and more.
