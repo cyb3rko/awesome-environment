@@ -11,6 +11,7 @@
   - [Shoes](#shoes)
 - [Health & Beauty](#health--beauty)
   - [Diapers](#diapers)
+- [Jewelry](#jewelry)
 - [Kitchen Equipment, Dishes, Eating Utensils, Laundry](#kitchen-equipment-dishes-eating-utensils-laundry)
 - [Online Services](#online-services)
 - [Smartphones](#smartphones)
@@ -27,6 +28,7 @@
 
 ## Clothing
 
+- [a.ell atelier](https://aellatelier.com/) [:us:] - Many different kind of sustainable clothing. (+ [Jewelry](#jewelry))
 - [Seadon](https://seadon.co/) [:us:] - Eco-friendly clothings (Tops, Pants, Jackets and more) with minimum environmental impact.
 
 ### Dresses, Suits
@@ -55,6 +57,11 @@
 
 - [Dyper](https://dyper.com/) [:us:] - Biodegradable, sustainable bamboo and cloth diapers with divert program for composting used diapers. (+ [Health & Beauty](#health--beauty) | [Laundry](#kitchen-equipment-dishes-eating-utensils-laundry))
 - [Kudos](https://mykudos.com/) [:us:] - Plantbased, 100% cotton-lined and leak-defying disposable diapers.
+
+
+## Jewelry
+
+- [a.ell atelier](https://aellatelier.com/) [:us:] - Sustainable jewelry made out of recycled parts like sea glass. (+ [Clothing](#clothing))
 
 
 ## Kitchen Equipment, Dishes, Eating Utensils, Laundry
