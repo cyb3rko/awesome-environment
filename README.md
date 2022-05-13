@@ -1,6 +1,6 @@
 # Awesome Environment [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyb3rko%2Fawesome-environment&count_bg=%233DA1C8&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
-> 🌍 A list of environmentally friendly and sustainable products. 🌍
+> 🌍 A list of environmentally friendly and sustainable products and companies. 🌍
 
 
 ## Contents
